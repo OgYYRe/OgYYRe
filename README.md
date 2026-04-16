@@ -4,7 +4,6 @@ Software Developer in training (Informatiker EFZ, Zurich)
 
 ## About Me
 I am currently completing my vocational training as an Informatiker EFZ in Zurich (graduation in 2026).  
-I am currently completing my vocational training as an Informatiker EFZ in Zurich (graduation in 2026).  
 I have hands-on experience building full-stack web applications using JavaScript, TypeScript, React and Node.js, including database integration with SQL and Supabase.  
 I am particularly interested in backend development and system integration.
 
