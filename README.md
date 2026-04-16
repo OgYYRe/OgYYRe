@@ -1,16 +1,27 @@
-## Hi there 👋
+# Oguzhan Cetinkaya
 
-<!--
-**OgYYRe/OgYYRe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer in training (Informatiker EFZ, Zurich)
 
-Here are some ideas to get you started:
+## About Me
+I am currently completing my vocational training as an Informatiker EFZ in Zurich (graduation in 2026).  
+I am focused on building practical software development skills and gaining real-world experience.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- JavaScript, TypeScript
+- React, React Native, Next.js
+- Node.js
+- SQL, NoSQL (Supabase, MongoDB)
+- Basic knowledge: C++, Java, Python
+
+## Projects
+- Certificate Verification Platform (Next.js, Node.js, Supabase)
+- Mobile App (React Native, Supabase)
+- Personal Portfolio Website
+
+## Goal
+Seeking a mandatory internship (6-12 months) in software development as part of my EFZ training.
+
+## Contact
+- Portfolio: https://oguzhancetinkaya.dev
+- LinkedIn: https://linkedin.com/in/-oguzhan-cetinkaya
+- GitHub: https://github.com/OgYYRe
