@@ -42,6 +42,7 @@ Personal portfolio built with React and TypeScript
 Seeking a mandatory internship (6-12 months) in software development as part of my EFZ training.
 
 ## Contact
+- Mail: cetinkaya-oguzhan@hotmail.com
 - Portfolio: https://oguzhancetinkaya.dev
 - LinkedIn: https://linkedin.com/in/-oguzhan-cetinkaya
 - GitHub: https://github.com/OgYYRe
